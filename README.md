@@ -1,1 +1,1 @@
-This is my Jupyter Notebook project:
+This is my Jupyter Notebook project
